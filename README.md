@@ -1,5 +1,7 @@
 # 8-puzzle
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/meganetaaan/8-puzzle.svg)](https://greenkeeper.io/)
+
 > A playful video slide puzzle game.
 
 ## Build Setup
